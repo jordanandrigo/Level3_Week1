@@ -1,6 +1,6 @@
 {
-    "Jordan":{"name":"Jordan","role":"Student","nickname":"Jord"},
-    "Sarah":{"name":"Sarah","role":"Main Homie","nickname":"Gerald"},
-    "Ted":{"name":"Ted","role":"Cat/Pet","nickname":"T E D"},
-    "Tessa":{"name":"Tessa","role":"Master Developer","nickname":"T-Coops"}
+    "Jordan":{"name":"Jordan","role":"Student","nickname":"Jord","avatar":"jordan.jpg"},
+    "Sarah":{"name":"Sarah","role":"Main Homie","nickname":"Gerald","avatar":"sarah.jpg"},
+    "Ted":{"name":"Ted","role":"Cat/Pet","nickname":"T E D","avatar":"ted.jpg"},
+    "Tessa":{"name":"Tessa","role":"Master Developer","nickname":"T-Coops","avatar":"tessa.jpg"}
   }
